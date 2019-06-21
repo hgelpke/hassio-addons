@@ -40,5 +40,5 @@
           "password": "str"
         }
     },
-    "image": "marthoc/hassio-addon-deconz-{arch}"
+    "image": "hgelpke/hassio-addon-deconz-{arch}"
 }
